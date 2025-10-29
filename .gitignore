@@ -1,3 +1,6 @@
 mainsail.cfg
 timelapse.cfg
 *.bkp
+
+# Backup printer configs
+printer-*_*.cfg
